@@ -9,7 +9,7 @@ const CONTACT = {
   email: 'vuhoanganptit@gmail.com',
   phone: '0943481441',
   linkedin: 'https://www.linkedin.com/in/vuhoangan/',
-  github: 'https://github.com/kawasaky',
+  github: 'https://github.com/kawasaky007',
 };
 
 interface ContactCardItem {
